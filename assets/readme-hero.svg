@@ -1,0 +1,42 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">TRAE - To Reach All Easily</title>
+  <desc id="desc">Minimal README hero for a domain WHOIS and bulk TLD lookup interface.</desc>
+  <defs>
+    <linearGradient id="blue" x1="410" y1="92" x2="832" y2="206" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#006EFF"/>
+      <stop offset="1" stop-color="#3D8BFF"/>
+    </linearGradient>
+    <filter id="softShadow" x="-8%" y="-18%" width="116%" height="136%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#181818" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1278" height="318" rx="24" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="1278" height="318" rx="24" stroke="#4D6B99" stroke-opacity="0.14" stroke-width="2"/>
+  <rect x="34" y="34" width="1212" height="252" rx="18" fill="#F7F8FA"/>
+  <rect x="34.5" y="34.5" width="1211" height="251" rx="17.5" stroke="#4D6B99" stroke-opacity="0.10"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="120" y="84" width="152" height="152" rx="34" fill="#FFFFFF"/>
+    <rect x="120.75" y="84.75" width="150.5" height="150.5" rx="33.25" stroke="#4D6B99" stroke-opacity="0.14" stroke-width="1.5"/>
+    <rect x="155" y="118" width="82" height="82" rx="20" fill="#FFFFFF"/>
+    <rect x="155.75" y="118.75" width="80.5" height="80.5" rx="19.25" stroke="#4D6B99" stroke-opacity="0.12" stroke-width="1.5"/>
+    <g transform="translate(196 159) skewX(-12) translate(-196 -159)">
+      <text x="196" y="173" text-anchor="middle" fill="#0C0C0D" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="-2.6">TRAE</text>
+    </g>
+  </g>
+
+  <text x="324" y="145" fill="#1A1A1A" font-family="Inter, SF Pro Display, Segoe UI, Arial, sans-serif" font-size="64" font-weight="760" letter-spacing="0">TRAE</text>
+  <text x="324" y="185" fill="#5B6066" font-family="Inter, SF Pro Text, Segoe UI, Arial, sans-serif" font-size="22" font-weight="560" letter-spacing="0">To Reach All Easily</text>
+  <text x="324" y="224" fill="#8A9096" font-family="Inter, SF Pro Text, Segoe UI, Arial, sans-serif" font-size="20" font-weight="460" letter-spacing="0">WHOIS lookup · Bulk TLD checks · API-ready sharing.</text>
+
+  <g transform="translate(916 94)">
+    <rect x="0" y="0" width="208" height="132" rx="16" fill="#FFFFFF"/>
+    <rect x="0.5" y="0.5" width="207" height="131" rx="15.5" stroke="#4D6B99" stroke-opacity="0.14"/>
+    <text x="22" y="38" fill="#8A9096" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="700">GET</text>
+    <text x="60" y="38" fill="#006EFF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" font-weight="800">/api/lookup</text>
+    <rect x="22" y="56" width="164" height="10" rx="5" fill="#E7ECF3"/>
+    <rect x="22" y="78" width="116" height="10" rx="5" fill="#E7ECF3"/>
+    <rect x="22" y="100" width="142" height="10" rx="5" fill="url(#blue)" fill-opacity="0.22"/>
+  </g>
+</svg>

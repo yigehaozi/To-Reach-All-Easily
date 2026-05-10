@@ -1,3 +1,24 @@
+<p align="center">
+  <img src="assets/readme-hero.svg" alt="TRAE - To Reach All Easily" width="100%" />
+</p>
+
+<p align="center">
+  <a href="#简体中文"><img alt="Lang Chinese" src="https://img.shields.io/badge/lang-中文-006EFF?style=flat-square" /></a>
+  <a href="#english"><img alt="Lang English" src="https://img.shields.io/badge/lang-English-006EFF?style=flat-square" /></a>
+  <a href="#한국어"><img alt="Lang Korean" src="https://img.shields.io/badge/lang-한국어-006EFF?style=flat-square" /></a>
+  <a href="#日本語"><img alt="Lang Japanese" src="https://img.shields.io/badge/lang-日本語-006EFF?style=flat-square" /></a>
+</p>
+
+<p align="center">
+  <img alt="WHOIS Ready" src="https://img.shields.io/badge/WHOIS-ready-0FDC78?style=flat-square" />
+  <img alt="Bulk TLD" src="https://img.shields.io/badge/Bulk_TLD-checks-006EFF?style=flat-square" />
+  <img alt="API yisi.yun" src="https://img.shields.io/badge/API-yisi.yun-5B6066?style=flat-square" />
+  <img alt="React" src="https://img.shields.io/badge/React-18-006EFF?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5.8-006EFF?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-6-006EFF?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="License" src="https://img.shields.io/badge/license-source_available-5B6066?style=flat-square" />
+</p>
+
 # To Reach All Easily
 
 [简体中文](#简体中文) | [English](#english) | [한국어](#한국어) | [日本語](#日本語)
