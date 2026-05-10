@@ -1,0 +1,1 @@
+export const SESSION_INSIGHTS_PANEL_WIDTH = 224;
