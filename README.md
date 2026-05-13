@@ -19,6 +19,14 @@
   <img alt="License" src="https://img.shields.io/badge/license-source_available-5B6066?style=flat-square" />
 </p>
 
+<p align="center">
+  <strong>友情链接：</strong>
+  <a href="https://linux.do/">
+    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linuxdo.svg" alt="linux.do" width="18" height="18" />
+    linux.do
+  </a>
+</p>
+
 # To Reach All Easily
 
 [简体中文](#简体中文) | [English](#english) | [한국어](#한국어) | [日本語](#日本語)

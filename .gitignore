@@ -22,6 +22,22 @@ playwright-report
 test-results
 *.tsbuildinfo
 
+# Local private notes and planning artifacts
+AGENTS.md
+codex_plan/
+
+# Local debugging artifacts
+.codex-dev-server.log
+.tmp/
+debug-*.js
+debug-*.mjs
+playwright-scrape*.cjs
+screenshot*.png
+*-screenshot.png
+*.network-request
+*.network-response
+*.heapsnapshot
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -32,4 +48,3 @@ test-results
 *.njsproj
 *.sln
 *.sw?
-AGENTS.md
